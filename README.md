@@ -1,4 +1,4 @@
-### I store my repos only on my OWN gitea instance - m8sh.su
+### I store my repos only on my OWN gitea instance - [m8sh.su](https://m8sh.su/d)
 
 Lets just move to elswhere from that genuinely clueless centralized institution.
 
